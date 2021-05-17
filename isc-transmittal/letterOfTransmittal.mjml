@@ -1,0 +1,171 @@
+<mjml>
+  <mj-body>
+    <mj-section background-color="#036">
+      <mj-group>
+        <mj-column>
+          <mj-image align="left" width="100px" src="https://www.irwinseating.com/assets/images/logo-irwin-main.png"></mj-image>
+
+        </mj-column>
+
+        <mj-column vertical-align="middle">
+          <mj-wrapper padding-right="10px">
+
+            <mj-text align="right" padding-right="10px" font-style="normal" font-size="26px" color="#fff">
+              Letter of Transmittal
+            </mj-text>
+          </mj-wrapper>
+
+        </mj-column>
+      </mj-group>
+
+    </mj-section>
+    <mj-section>
+      <mj-column width="25%">
+
+        <mj-text>To: Person<br>DIRECT
+        </mj-text>
+      </mj-column>
+
+      <mj-column width="75%">
+        <mj-table width="100%">
+          <tr>
+            <td style="border-right:1px solid #ecedee;text-align:left;10px;">Date</th>
+            <td style="padding: 0 15px;">03/31/2021</th>
+
+          </tr>
+          <tr>
+            <td style="border-right:1px solid #ecedee;text-align:left;10px;">Project #</th>
+            <td style="padding: 0 15px;">P17098</td>
+
+          </tr>
+          <tr>
+            <td style="border-right:1px solid #ecedee;text-align:left;10px;">Project Name</th>
+            <td style="padding: 0 15px;">West Ottawa High School</td>
+
+          </tr>
+          <tr>
+            <td style="border-right:1px solid #ecedee;text-align:left;10px;">Revision</th>
+            <td style="padding: 0 15px;">C</td>
+
+          </tr>
+          <tr>
+            <td style="border-right:1px solid #ecedee;text-align:left;10px;">Sent Via</th>
+            <td style="padding: 0 15px;">Email</td>
+
+          </tr>
+        </mj-table>
+
+
+
+      </mj-column>
+
+
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-table>
+          <tr style="border-bottom:1px solid #ecedee;text-align:left;10px;">
+            <th>Quantity</th>
+            <th>Description</th>
+            <th>Revisied Using</th>
+          </tr>
+          <tr>
+            <td>1</td>
+            <td>Seating layout drawing</td>
+            <td>Revision Request/Marked Drawing (3/24/2021)</td>
+          </tr>
+        </mj-table>
+
+
+        <mj-table style="border-bottom:1px solid #ecedee">
+          <tr style="border-bottom:1px solid #ecedee;text-align:left;10px;">
+            <th>Model</th>
+            <th>Quantity</th>
+
+          </tr>
+          <tr>
+            <td>90.12.17.4</td>
+            <td>906</td>
+          </tr>
+
+
+
+        </mj-table>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-table style="border-bottom:1px solid #ecedee">
+          <tr style="border-bottom:1px solid #ecedee;text-align:left;10px;">
+            <td colspan="2">
+              <b>Seating Layout Contact</b>
+
+            </td>
+          </tr>
+          <tr>
+            <td>Name:</td>
+            <td>Name:</td>
+          </tr>
+
+          <tr>
+            <td>Email:</td>
+            <td>Name:</td>
+          </tr>
+          <tr>
+            <td>Direct Phone:</td>
+            <td>Name:</td>
+          </tr>
+          <tr>
+            <td>Fax:</td>
+            <td>Name:</td>
+          </tr>
+
+        </mj-table>
+      </mj-column>
+
+      <mj-column>
+        <mj-table style="border-bottom:1px solid #ecedee">
+          <tr style="border-bottom:1px solid #ecedee;text-align:left;10px;">
+            <td colspan="2">
+              <b>Project Coordinator Contact</b>
+
+            </td>
+          </tr>
+          <tr>
+            <td>Name:</td>
+            <td>Name:</td>
+          </tr>
+
+          <tr>
+            <td>Email:</td>
+            <td>Name:</td>
+          </tr>
+          <tr>
+            <td>Direct Phone:</td>
+            <td>Name:</td>
+          </tr>
+          <tr>
+            <td>Fax:</td>
+            <td>Name:</td>
+          </tr>
+
+        </mj-table>
+      </mj-column>
+
+
+    </mj-section>
+    <mj-section>
+      <mj-column>
+
+
+
+        <mj-divider border-color="#036"></mj-divider>
+
+        <mj-text align="center" font-size="14px" color="#036" font-family="helvetica">3251 Fruit Ridge NW, Grand Rapids, MI 49544 * Phone: (616) 574-7400 * Fax: (616) 574-7411
+          <br /><a style="color:#036" href="www.irwinseating.com" target="_blank"> www.irwinseating.com </a>
+        </mj-text>
+
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

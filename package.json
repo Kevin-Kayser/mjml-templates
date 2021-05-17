@@ -1,0 +1,23 @@
+{
+  "name": "mjml-templates",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kevin-Kayser/mjml-templates.git"
+  },
+  "keywords": [],
+  "author": "Kevin Kayser (https://github.com/Kevin-Kayser)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kevin-Kayser/mjml-templates/issues"
+  },
+  "homepage": "https://github.com/Kevin-Kayser/mjml-templates#readme",
+  "dependencies": {
+    "mjml": "^4.9.3"
+  }
+}
