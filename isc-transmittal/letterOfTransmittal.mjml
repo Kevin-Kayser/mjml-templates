@@ -6,16 +6,6 @@
           <mj-image align="left" width="100px" src="https://www.irwinseating.com/assets/images/logo-irwin-main.png"></mj-image>
 
         </mj-column>
-
-        <mj-column vertical-align="middle">
-          <mj-wrapper padding-right="10px">
-
-            <mj-text align="right" padding-right="10px" font-style="normal" font-size="26px" color="#fff">
-              Letter of Transmittal
-            </mj-text>
-          </mj-wrapper>
-
-        </mj-column>
       </mj-group>
 
     </mj-section>
