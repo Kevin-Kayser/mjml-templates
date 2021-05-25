@@ -10,13 +10,13 @@
 
     </mj-section>
     <mj-section>
-      <mj-column width="25%">
+      <mj-column width="30%">
 
         <mj-text>To: Person<br>DIRECT
         </mj-text>
       </mj-column>
 
-      <mj-column width="75%">
+      <mj-column width="70%">
         <mj-table width="100%">
           <tr>
             <td style="border-right:1px solid #ecedee;text-align:left;10px;">Date</th>
@@ -53,20 +53,6 @@
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-table>
-          <tr style="border-bottom:1px solid #ecedee;text-align:left;10px;">
-            <th>Quantity</th>
-            <th>Description</th>
-            <th>Revisied Using</th>
-          </tr>
-          <tr>
-            <td>1</td>
-            <td>Seating layout drawing</td>
-            <td>Revision Request/Marked Drawing (3/24/2021)</td>
-          </tr>
-        </mj-table>
-
-
         <mj-table style="border-bottom:1px solid #ecedee">
           <tr style="border-bottom:1px solid #ecedee;text-align:left;10px;">
             <th>Model</th>
@@ -83,6 +69,15 @@
         </mj-table>
       </mj-column>
     </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text>
+          Transmittal Note Area
+        </mj-text>
+      </mj-column>
+
+    </mj-section>
+
     <mj-section>
       <mj-column>
         <mj-table style="border-bottom:1px solid #ecedee">
@@ -144,6 +139,24 @@
 
 
     </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text>
+          <b>Attachments</b>
+        </mj-text>
+
+        <mj-table>
+          <tr>
+            <td>Attachment 1</td>
+          </tr>
+          <tr>
+            <td>Attachment 2</td>
+          </tr>
+        </mj-table>
+
+      </mj-column>
+    </mj-section>
+
     <mj-section>
       <mj-column>
 
